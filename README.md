@@ -27,7 +27,7 @@
 
 # Sample Console Output
 
-# === WhoIsMoni ===
+# === WhoIsMani ===
 ## Server running: http://0.0.0.0:8717
 
 ### [2026-02-28 12:51:39] 👤 NEW VISITOR: 127.0.0.1
