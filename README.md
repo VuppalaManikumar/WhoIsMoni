@@ -1,9 +1,5 @@
 # WhatsApp Web Phishing - Phone & OTP Capture Tool
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/WhoIsMoni?style=social)](https://github.com/YOUR_USERNAME/WhoIsMoni)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/WhoIsMoni)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://python.org)
-
 **Advanced WhatsApp Web phishing page for authorized penetration testing.** Captures international phone numbers + OTP codes in real-time. Professional UI indistinguishable from real WhatsApp Web.
 
 # Features
